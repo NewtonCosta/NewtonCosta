@@ -1,3 +1,7 @@
+[![Header](https://raw.githubusercontent.com/NewtonCosta/github-banner-2.png "Header")](https://some-url.dev/)
+
+https://github.com/NewtonCosta/NewtonCosta/blob/636318b1935d7649594df734d16a39450f1f4413/github-banner-2.png
+
 ### Hi there 👋
 
 <!--
