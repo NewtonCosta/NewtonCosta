@@ -4,18 +4,50 @@
   <a href="https://github.com/NewtonCosta"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/new-costa/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30"</a>&nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/13491142"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30"</a>&nbsp;&nbsp;
-  <a href="https://about-newton.netlify.app/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="website" height="40"></a>&nbsp;&nbsp;
+  <a href="https://about-newton.netlify.app/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="website" height="30"></a>&nbsp;&nbsp;
+  <a href="https://medium.com/@newtongomez04"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/medium-brands.svg"></a>&nbsp;&nbsp;
+  <a href="mailto:newtongomez04@gmail.com"><img height="30" alt="mail me" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/envelope-square-solid.svg"></a>&nbsp;&nbsp;
 </p>
 
 <hr>
 
-### Hi there 👋
+### Hi there, I am Newton Costa 👋
 
 I'm Newton from Angola, I am Automation and DevOps Engineer.
 
-I have +6 years of experience, working as Linux System Administrator, Configuration Management, Functional Tester Analyst and Software Developer. As a DevOps enthusiast, I have developed skills in several DevOps practices and tools, such as tasks task automation, infrastructure as code (on-premise and cloud), CICD pipelines, security, source code versioning control, observability and monitoring, and support on high availability Cloud production system.
+I have +6 years of experience, working as _Automation and DevOps Engineer, Configuration Management, Functional Tester Analyst and Software Developer_. As a DevOps enthusiast, I have developed skills in several DevOps practices and tools, such as _task automation, infrastructure as code (on-premise and cloud), CICD pipelines, security, source code versioning control, observability and monitoring, and support on high availability Cloud production system_.
 
+## Tech Skills:
+<hr>
+ - [Cloud] : AWS, OCI, Openstack
+ - [Infraestructure as Code]: Cloud Formation, Terraform, Vault, Ansible
+ - [CI/CD] : Jenkins, Circle CI, Argo CD
+ - [Container]: Docker, Kubernetes
+ - Kubernetes Operators: Flux, Argo CD
+ - Database: MongoDB, ELK, Redis
+ - Monitoring / Oberservability: Prometheus, Grafana,
+ - Logging: FluentD, Logstach
+ - Backend: NodeJS, Express
+ - Scripting: Python, Bash
+ - Programming Language: Javascript, _I promess do my best with another one
+
+### Currently studing:
+- Kubernetes operator
+- RedHat Openshift
+- GitOps operations, best practices
+- AWS: Fargate
+- Oracle Cloud: Compute, network, storage, orchestration
 <hr>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NewtonCosta)](https://github.com/anuraghazra/github-readme-stats)
+# Github Personal metrics
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=NewtonCosta)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NewtonCosta)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NewtonCosta&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NewtonCosta)  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NewtonCosta&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
