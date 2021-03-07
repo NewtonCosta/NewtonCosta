@@ -46,9 +46,11 @@ I have +6 years of experience, working as _Automation and DevOps Engineer, Confi
 </a>
 <!-- Github troppheus: you can build your own at : https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewtonCostaa&layout=compact" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewtonCosta&layout=compact" />
 </a>
+
 <p></p>
+
 <p align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=NewtonCosta"
 </p>
