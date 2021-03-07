@@ -13,12 +13,11 @@
 
 ### Hi there, I am Newton Costa 👋
 
-I'm Newton from Angola, I am Automation and DevOps Engineer.
+I'm Newton, I am Automation and DevOps Engineer.
 
 I have +6 years of experience, working as _Automation and DevOps Engineer, Configuration Management, Functional Tester Analyst and Software Developer_. As a DevOps enthusiast, I have developed skills in several DevOps practices and tools, such as _task automation, infrastructure as code (on-premise and cloud), CICD pipelines, security, source code versioning control, observability and monitoring, and support on high availability Cloud production system_.
 
 ## Tech Skills:
-<hr>
  - [Cloud] : AWS, OCI, Openstack
  - [Infraestructure as Code]: Cloud Formation, Terraform, Vault, Ansible
  - [CI/CD] : Jenkins, Circle CI, Argo CD
@@ -29,7 +28,7 @@ I have +6 years of experience, working as _Automation and DevOps Engineer, Confi
  - Logging: FluentD, Logstach
  - Backend: NodeJS, Express
  - Scripting: Python, Bash
- - Programming Language: Javascript, _I promess do my best with another one
+ - Programming Language: Javascript, _I promess do my best with another one_
 
 ### Currently studing:
 - Kubernetes operator
@@ -44,17 +43,23 @@ I have +6 years of experience, working as _Automation and DevOps Engineer, Confi
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=NewtonCosta&show_icons=true&theme=midnight-purple" />&nbsp;&nbsp;
 </a>
-<!-- Github troppheus: you can build your own at : https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
+<!-- Github most used language -->
 <a href="https://github.com/anuraghazra/convoychat">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewtonCosta&layout=compact" />
 </a>
 
 <p></p>
 
+<!-- Extended GitHub metrics -->
+![GitHub metrics](https://metrics.lecoq.io/NewtonCosta)  
+![Profile views](https://gpvc.arturio.dev/NewtonCosta)  
+
+<!-- Github Tropheus -->
+<!--
 <p align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=NewtonCosta"
 </p>
-
+-->
 <!-- Pin the most relevant repos to profile-->
 <!--
 <p>
