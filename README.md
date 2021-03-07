@@ -13,7 +13,7 @@
 </p>
 
 
-## Hi there, I am Newton Costa 👋
+## Hi there, I am Newton Costa :v:
 
 I'm Newton, I am Automation and DevOps Engineer.
 
@@ -23,7 +23,7 @@ I have +6 years of experience, working as _Automation and DevOps Engineer, Confi
 
 <!--------------------------- Table with tech skills ---------------------------------------->
 <table>
-<tr><th>Current Tech Skills </th><th>Currently learning</th></tr>
+<tr><th>:fire: Current Tech Skills </th><th>:muscle: Currently learning</th></tr>
 <tr><td>
   
 |            |     
@@ -40,7 +40,9 @@ I have +6 years of experience, working as _Automation and DevOps Engineer, Confi
 | **Programming Language**: _Javascript_ |
 
   </td>
-  <td>
+  <td align="center">
+  
+  <h4>I'm able to grasp new concepts quickly!</h4>
   
   |             |     
   | ----------- |
@@ -90,6 +92,6 @@ I have +6 years of experience, working as _Automation and DevOps Engineer, Confi
 
 <!-- Visitors counter -->
 <p align="center"> 
-  Thank you to be here, see you next time!<br>
+  Thank you to be here, see you next time! :wink: </br>
   <img src="https://profile-counter.glitch.me/NewtonCosta/count.svg" />
 </p>
