@@ -1,7 +1,6 @@
 [![Header](https://github.com/NewtonCosta/NewtonCosta/blob/main/github-banner-2.png "Header")](https://github.com/NewtonCosta)
 
 <p align="center">
-    You may found me on: </br> </br>
   <a href="https://github.com/NewtonCosta"><img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Newton on GitHub" height="40"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/new-costa/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Newton on linkedin" height="40"</a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/NewwCosta"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Newton on facebook" height="40"</a>&nbsp;&nbsp;
@@ -45,15 +44,17 @@ I have +6 years of experience, working as _Automation and DevOps Engineer, Confi
 
 ## Github Personal metrics
 <!-- Github metrics: you can build your own at : https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=NewtonCosta&show_icons=true&theme=midnight-purple" />&nbsp;&nbsp;
-</a>
+<p alignt="center">
+<a href="#">
+  <img height="280" align="center" src="https://github-readme-stats.vercel.app/api?username=NewtonCosta&show_icons=true&theme=midnight-purple" />
+</a>&nbsp;&nbsp;
 <!-- Github most used language -->
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="#">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewtonCosta&layout=compact" />
 </a>
+  </p>
 
-</br></br>
+
 
 <!-- Extended GitHub metrics -->
 ![GitHub metrics](https://metrics.lecoq.io/NewtonCosta)  
