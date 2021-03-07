@@ -57,12 +57,13 @@ I have +6 years of experience, working as _Automation and DevOps Engineer, Confi
 
 <!-- Github metrics: you can build your own at : https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 
+
   <a href="#">
-    <img height="200" widht="50" align="center" src="https://github-readme-stats.vercel.app/api?username=NewtonCosta&show_icons=true&theme=midnight-purple" />
+    <img height="300" width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=NewtonCosta&show_icons=true&theme=midnight-purple" />
   </a>&nbsp;&nbsp;
   <!-- Github most used language -->
   <a href="#">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewtonCosta&layout=compact" />
+    <img height="300" width="450" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewtonCosta&layout=compact" />
   </a>
 
 <!-- Extended GitHub metrics -->
