@@ -2,7 +2,7 @@
 
 
 <p align="center">
-    You may found me at </br></br>
+    You may found me on: </br>
   <a href="https://github.com/NewtonCosta"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/new-costa/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30"</a>&nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/13491142"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30"</a>&nbsp;&nbsp;
@@ -11,7 +11,6 @@
   <a href="mailto:newtongomez04@gmail.com"><img height="30" alt="mail me" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/envelope-square-solid.svg"></a>&nbsp;&nbsp;
 </p>
 
-<hr>
 
 ## Hi there, I am Newton Costa 👋
 
