@@ -8,7 +8,7 @@
   <a href="https://stackoverflow.com/users/13491142"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Newton on facebook" height="40"</a>&nbsp;&nbsp;
   <a href="https://about-newton.netlify.app/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="Newton's website" height="40"></a>&nbsp;&nbsp;
   <a href="https://medium.com/@newtongomez04"><img  src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/medium-brands.svg" alt="Newton on Medium" height="40"></a>&nbsp;&nbsp;
-   <a href="https://dev.to/newtoncosta"><img src="'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Newton on DEV" height="40"></a>&nbsp;&nbsp;
+   <a href="https://dev.to/newtoncosta"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Newton on DEV" height="40"></a>&nbsp;&nbsp;
   <a href="mailto:newtongomez04@gmail.com"><img  src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/envelope-square-solid.svg" alt="mail me" height="40" >
   </a>&nbsp;&nbsp;
 </p>
