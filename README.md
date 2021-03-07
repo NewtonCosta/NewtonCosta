@@ -1,7 +1,6 @@
 [![Header](https://github.com/NewtonCosta/NewtonCosta/blob/main/github-banner-2.png "Header")](https://github.com/NewtonCosta)
 
 <p align="center">
-    You may found me on: </br> </br>
   <a href="https://github.com/NewtonCosta"><img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Newton on GitHub" height="40"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/new-costa/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Newton on linkedin" height="40"</a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/NewwCosta"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Newton on facebook" height="40"</a>&nbsp;&nbsp;
