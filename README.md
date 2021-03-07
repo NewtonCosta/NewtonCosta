@@ -2,13 +2,15 @@
 
 
 <p align="center">
-    You may found me on: </br>
-  <a href="https://github.com/NewtonCosta"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/new-costa/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30"</a>&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/13491142"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30"</a>&nbsp;&nbsp;
-  <a href="https://about-newton.netlify.app/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="website" height="30"></a>&nbsp;&nbsp;
-  <a href="https://medium.com/@newtongomez04"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/medium-brands.svg"></a>&nbsp;&nbsp;
-  <a href="mailto:newtongomez04@gmail.com"><img height="30" alt="mail me" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/envelope-square-solid.svg"></a>&nbsp;&nbsp;
+    You may found me on: </br> </br>
+  <a href="https://github.com/NewtonCosta"><img height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="35"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/new-costa/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="35"</a>&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/13491142"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="35"</a>&nbsp;&nbsp;
+  <a href="https://about-newton.netlify.app/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="website" height="35"></a>&nbsp;&nbsp;
+  <a href="https://medium.com/@newtongomez04"><img height="35" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/medium-brands.svg"></a>&nbsp;&nbsp;
+   <a href="https://dev.to/newtoncosta"><img height="35" src=""></a>&nbsp;&nbsp;
+  <a href="mailto:newtongomez04@gmail.com"><img height="35" alt="mail me" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/envelope-square-solid.svg">
+  </a>&nbsp;&nbsp;
 </p>
 
 
