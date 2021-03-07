@@ -40,14 +40,28 @@ I have +6 years of experience, working as _Automation and DevOps Engineer, Confi
 <hr>
 
 # Github Personal metrics
-
-<p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=NewtonCosta"
-</p>
-<p></p>
+<!-- Github metrics: you can build your own at : https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=NewtonCosta&show_icons=true&theme=midnight-purple" />&nbsp;&nbsp;
 </a>
+<!-- Github troppheus: you can build your own at : https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewtonCostaa&layout=compact" />
 </a>
+<p></p>
+<p align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=NewtonCosta"
+</p>
+
+<!-- Pin the most relevant repos to profile-->
+<!--
+<p>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NewtonCostaa&repo=github-readme-stats">
+</p>
+-->
+
+<!-- Visitors counter -->
+<p align="center"> 
+  Thank you to be here, see you next time!<br>
+  <img src="https://profile-counter.glitch.me/NewtonCosta/count.svg" />
+</p>
