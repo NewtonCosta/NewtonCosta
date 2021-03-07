@@ -44,15 +44,17 @@ I have +6 years of experience, working as _Automation and DevOps Engineer, Confi
 
 ## Github Personal metrics
 <!-- Github metrics: you can build your own at : https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=NewtonCosta&show_icons=true&theme=midnight-purple" />&nbsp;&nbsp;
-</a>
+<p alignt="center">
+<a href="#">
+  <img height="280" align="center" src="https://github-readme-stats.vercel.app/api?username=NewtonCosta&show_icons=true&theme=midnight-purple" />
+</a>&nbsp;&nbsp;
 <!-- Github most used language -->
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="#">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewtonCosta&layout=compact" />
 </a>
+  </p>
 
-</br></br>
+
 
 <!-- Extended GitHub metrics -->
 ![GitHub metrics](https://metrics.lecoq.io/NewtonCosta)  
