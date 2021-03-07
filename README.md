@@ -19,7 +19,6 @@ I'm Newton, I am Automation and DevOps Engineer.
 
 I have +6 years of experience, working as _Automation and DevOps Engineer, Configuration Management, Functional Tester Analyst and Software Developer_. As a DevOps enthusiast, I have developed skills in several DevOps practices and tools, such as _task automation, infrastructure as code (on-premise and cloud), CICD pipelines, security, source code versioning control, observability and monitoring, and support on high availability Cloud production system_.
 
-<hr>
 
 <!--------------------------- Table with tech skills ---------------------------------------->
 <table>
@@ -55,8 +54,6 @@ I have +6 years of experience, working as _Automation and DevOps Engineer, Confi
   </table>
 <!-- ---------------------------- Table with tech skills: END ----------------------------------- -->
 
-<hr>
-
 ## Github Personal metrics
 
 <!-- Github metrics: you can build your own at : https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
@@ -89,6 +86,8 @@ I have +6 years of experience, working as _Automation and DevOps Engineer, Confi
 <!-- ---------------------------- Github personal metrics:: END ----------------------------------- -->
 
 
+
+__________
 
 <!-- Visitors counter -->
 <p align="center"> 
