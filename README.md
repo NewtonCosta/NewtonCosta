@@ -21,40 +21,52 @@ I have +6 years of experience, working as _Automation and DevOps Engineer, Confi
 
 <hr>
 
-## Tech Skills  
- - [Cloud] : AWS, OCI, Openstack
- - [Infraestructure as Code]: Cloud Formation, Terraform, Vault, Ansible
- - [CI/CD] : Jenkins, Circle CI, Argo CD
- - [Container]: Docker, Kubernetes
- - Kubernetes Operators: Flux, Argo CD
- - Database: MongoDB, ELK, Redis
- - Monitoring / Oberservability: Prometheus, Grafana,
- - Logging: FluentD, Logstach
- - Backend: NodeJS, Express
- - Scripting: Python, Bash
- - Programming Language: Javascript, _I promess do my best with another one_
+<!--------------------------- Table with tech skills ---------------------------------------->
+<table>
+<tr><th>Current Tech Skills </th><th>Currently learning</th></tr>
+<tr><td>
+  
+|            |     
+| ----------- |
+| **Cloud**:  _AWS, OCI, OpenStack_| 
+| **Infraestructure as Code**: _Cloud Formation, Terraform, Ansible_| 
+| **CI/CD**:  _Jenkins, Circle CI, Argo CD_| 
+| **Container**: _Docker, Kubernetes_| 
+| **Database**: _MongoDB, ELK, Redis_| 
+| **Monitoring/Oberservability**: _Prometheus, Grafana_ |
+| **Logging**: _FluentD, Logstach_|
+| **Backend**: _NodeJS, Express_|
+| **Scripting**: _Python, Bash_ |
+| **Programming Language**: _Javascript_ |
 
-### Currently studing:
-- Kubernetes operator
-- RedHat Openshift
-- GitOps operations, best practices
-- AWS: Fargate
-- Oracle Cloud: Compute, network, storage, orchestration
+  </td>
+  <td>
+  
+  |             |     
+  | ----------- |
+  | Kubernetes operators|
+  | RedHat Openshift|
+  | GitOps operations, best practices |
+  | Oracle Cloud: Compute, network, storage, orchestration|
+  
+  </td></tr>
+  </table>
+<!-- ---------------------------- Table with tech skills: END ----------------------------------- -->
+
 <hr>
 
 ## Github Personal metrics
+
 <!-- Github metrics: you can build your own at : https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 <p alignt="center">
   <a href="#">
     <img height="200" widht="80" align="center" src="https://github-readme-stats.vercel.app/api?username=NewtonCosta&show_icons=true&theme=midnight-purple" />
-  </a>
+  </a>&nbsp;&nbsp;
   <!-- Github most used language -->
   <a href="#">
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewtonCosta&layout=compact" />
   </a>
 </p>
-
-
 
 <!-- Extended GitHub metrics -->
 ![GitHub metrics](https://metrics.lecoq.io/NewtonCosta)  
@@ -72,6 +84,9 @@ I have +6 years of experience, working as _Automation and DevOps Engineer, Confi
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=NewtonCostaa&repo=github-readme-stats">
 </p>
 -->
+<!-- ---------------------------- Github personal metrics:: END ----------------------------------- -->
+
+
 
 <!-- Visitors counter -->
 <p align="center"> 
