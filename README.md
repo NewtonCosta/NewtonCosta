@@ -41,7 +41,7 @@ I have +6 years of experience, working as _Automation and DevOps Engineer, Confi
   </td>
   <td align="center">
   
-  <h4>I'm able to grasp new concepts quickly!</h4>
+  <span sytle="color: purple; font-size: 16px">I'm able to grasp new concepts quickly!</span>
   
   |             |     
   | ----------- |
