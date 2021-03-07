@@ -43,11 +43,6 @@ I have +6 years of experience, working as _Automation and DevOps Engineer, Confi
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NewtonCosta)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NewtonCosta)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NewtonCosta&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NewtonCosta)  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NewtonCosta&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
