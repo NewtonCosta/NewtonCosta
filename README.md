@@ -5,7 +5,8 @@
     You may found me on: </br> </br>
   <a href="https://github.com/NewtonCosta"><img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Newton on GitHub" height="40"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/new-costa/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Newton on linkedin" height="40"</a>&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/13491142"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Newton on facebook" height="40"</a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/NewwCosta"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Newton on facebook" height="40"</a>&nbsp;&nbsp;
+    <a href="https://stackoverflow.com/users/13491142"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Newton on Stackoverflow" height="40">&nbsp;&nbsp;
   <a href="https://about-newton.netlify.app/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="Newton's website" height="40"></a>&nbsp;&nbsp;
   <a href="https://medium.com/@newtongomez04"><img  src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/medium-brands.svg" alt="Newton on Medium" height="40"></a>&nbsp;&nbsp;
    <a href="https://dev.to/newtoncosta"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Newton on DEV" height="40"></a>&nbsp;&nbsp;
