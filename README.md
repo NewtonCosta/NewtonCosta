@@ -84,10 +84,6 @@ I have +6 years of experience, working as _Automation and DevOps Engineer, Confi
 -->
 <!-- ---------------------------- Github personal metrics:: END ----------------------------------- -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NewtonCosta&repo=dockerizing-nodejs-app)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NewtonCosta&repo=NewtonCosta.github.io)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NewtonCosta&repo=jenkins-slack-shared-library)](https://github.com/anuraghazra/github-readme-stats)
-
 __________
 
 <!-- Visitors counter -->
