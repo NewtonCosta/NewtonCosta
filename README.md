@@ -26,9 +26,9 @@ I have +6 years of experience, working as _Automation and DevOps Engineer, Confi
   
 |            |     
 | ----------- |
-| **Cloud**:  _AWS, OCI, OpenStack_| 
+| **Cloud**:  _AWS, Azure, OpenStack_| 
 | **Infraestructure as Code**: _Cloud Formation, Terraform, Ansible_| 
-| **CI/CD**:  _Jenkins, Circle CI, Argo CD_| 
+| **CI/CD**:  _Jenkins, GiyHub Actions, Azure DevOps, Circle CI, Argo CD_| 
 | **Container**: _Docker, Kubernetes_| 
 | **Database**: _MongoDB, ELK, Redis_| 
 | **Monitoring/Oberservability**: _Prometheus, Grafana_ |
