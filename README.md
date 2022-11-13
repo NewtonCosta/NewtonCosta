@@ -16,7 +16,7 @@
 
 I'm Newton, I am Automation and DevOps Engineer.
 
-I have +6 years of experience, working as _Automation and DevOps Engineer, Configuration Management, Functional Tester Analyst and Software Developer_. As a DevOps enthusiast, I have developed skills in several DevOps practices and tools, such as _task automation, infrastructure as code (on-premise and cloud), CICD pipelines, security, source code versioning control, observability and monitoring, and support on high availability Cloud production system_.
+I have +8 years of experience, working as _Automation, Configuration Management, Functional Tester Analyst and Software Developer_. As a DevOps practitioner, I have developed skills in several DevOps practices and tools, such as _task automation, infrastructure as code (on-premise and cloud), CICD pipelines, security, source code versioning control, observability and monitoring, and support on high availability Cloud production system_.
 
 
 <!--------------------------- Table with tech skills ---------------------------------------->
