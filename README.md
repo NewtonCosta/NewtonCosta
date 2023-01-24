@@ -13,10 +13,7 @@
 
 
 ## Hi there, I am Newton Costa :v:
-
-I'm Newton, I am Automation and DevOps Engineer.
-
-I have +8 years of experience, working as _Automation, Configuration Management, Functional Tester Analyst and Software Developer_. As a DevOps practitioner, I have developed skills in several DevOps practices and tools, such as _task automation, infrastructure as code (on-premise and cloud), CICD pipelines, security, source code versioning control, observability and monitoring, and support on high availability Cloud production system_.
+Client-centric skilled DevOps Engineer with +3 years of hands-on experience automating and optimizing mission-critical deployments on-premise and Cloud, leveraging Infrastructure as Code, CI/CD pipelines, observability, and monitoring, helping implement fast software delivery processes, by reducing manual workload and time-to-market.
 
 
 <!--------------------------- Table with tech skills ---------------------------------------->
@@ -30,12 +27,10 @@ I have +8 years of experience, working as _Automation, Configuration Management,
 | **Infraestructure as Code**: _Cloud Formation, Terraform, Ansible_| 
 | **CI/CD**:  _Jenkins, GiyHub Actions, Azure DevOps, Circle CI, Argo CD_| 
 | **Container**: _Docker, Kubernetes_| 
-| **Database**: _MongoDB, ELK, Redis_| 
 | **Monitoring/Oberservability**: _Prometheus, Grafana_ |
-| **Logging**: _FluentD, Logstach_|
 | **Backend**: _NodeJS, Express_|
 | **Scripting**: _Python, Bash_ |
-| **Programming Language**: _Javascript_ |
+| **Programming Language**: _Javascript_, _Python_ |
 
   </td>
   <td align="center">
@@ -44,10 +39,10 @@ I have +8 years of experience, working as _Automation, Configuration Management,
   
   |             |     
   | ----------- |
-  | Kubernetes operators|
-  | RedHat Openshift|
+  | Amazon EKS|
+  | Kubernetes multi cluster management |
+  | AWS Serverless|
   | GitOps operations, best practices |
-  | Oracle Cloud: Compute, network, storage, orchestration|
   
   </td></tr>
   </table>
