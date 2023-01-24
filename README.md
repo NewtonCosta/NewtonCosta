@@ -12,7 +12,7 @@
 </p>
 
 
-## Hi there, I am Newton Costa :v:
+## Hi there, Newton Costa here :v:
 Client-centric skilled DevOps Engineer with +3 years of hands-on experience automating and optimizing mission-critical deployments on-premise and Cloud, leveraging Infrastructure as Code, CI/CD pipelines, observability, and monitoring, helping implement fast software delivery processes, by reducing manual workload and time-to-market.
 
 
