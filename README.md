@@ -13,7 +13,7 @@
 
 
 ## Hi there, Newton Costa here :v:
-Client-centric skilled DevOps Engineer with +3 years of hands-on experience automating and optimizing mission-critical deployments on-premise and Cloud, leveraging Infrastructure as Code, CI/CD pipelines, observability, and monitoring, helping implement fast software delivery processes, by reducing manual workload and time-to-market.
+Client-centric skilled DevOps Engineer with +6 years of hands-on experience automating and optimizing mission-critical deployments on-premise and Cloud, leveraging Infrastructure as Code, CI/CD pipelines, observability, and monitoring, helping implement fast software delivery processes, by reducing manual workload and time-to-market.
 
 
 <!--------------------------- Table with tech skills ---------------------------------------->
@@ -23,12 +23,12 @@ Client-centric skilled DevOps Engineer with +3 years of hands-on experience auto
   
 |            |     
 | ----------- |
-| **Cloud**:  _AWS, Azure, OpenStack_| 
+| **Cloud**:  _AWS, GCP| 
 | **Infraestructure as Code**: _Cloud Formation, Terraform, Ansible_| 
-| **CI/CD**:  _Jenkins, GiyHub Actions, Azure DevOps, Circle CI, Argo CD_| 
+| **CI/CD**:  _Jenkins, GiyHub Actions, Azure DevOps, Argo CD_| 
 | **Container**: _Docker, Kubernetes_| 
 | **Monitoring/Oberservability**: _Prometheus, Grafana_ |
-| **Backend**: _NodeJS, Express_|
+| **Backend**: pYTHON|
 | **Scripting**: _Python, Bash_ |
 | **Programming Language**: _Javascript_, _Python_ |
 
@@ -39,9 +39,8 @@ Client-centric skilled DevOps Engineer with +3 years of hands-on experience auto
   
   |             |     
   | ----------- |
-  | Amazon EKS|
-  | Kubernetes multi cluster management |
-  | AWS Serverless|
+  | Service Mesh|
+  | Kubernetes multi-cluster management |
   | GitOps operations, best practices |
   
   </td></tr>
@@ -50,7 +49,7 @@ Client-centric skilled DevOps Engineer with +3 years of hands-on experience auto
 
 ## Github Personal metrics
 
-<!-- Github metrics: you can build your own at : https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
+<!-- Github metrics: you can build your own at: https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 
 
   <a href="#">
